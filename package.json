@@ -1,5 +1,5 @@
 {
-  "name": "veggiedog",
+  "name": "@tinydogio/veggiedog",
   "version": "0.0.1",
   "description": "A lightweight MVC written in TypeScript by tinydog.",
   "main": "dist/index.js",
