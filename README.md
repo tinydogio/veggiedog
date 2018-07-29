@@ -2,9 +2,9 @@
 
 _veggiedog_ is a lightweight MVC written in [TypeScript](https://www.typescriptlang.org/). It is currently built using [Express](https://expressjs.com/), but this may change soon.
 
-We are in early development and will initially be used as a backbone for our  [firedog](https://github.com/tinydogio/firedog) project.
+_veggiedog_ is in early development and will initially be used as a backbone for our  [firedog](https://github.com/tinydogio/firedog) project.
 
-**NOTE:** This project is not currently something you can easily just drop in your project. Instructions are coming soon for including it.
+**NOTE:** This project is not currently something you can easily just drop in your project. Instructions are coming soon for doing so.
 
 ## Development Setup
 
