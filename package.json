@@ -2,8 +2,11 @@
   "name": "veggiedog",
   "version": "0.0.1",
   "description": "A lightweight MVC written in TypeScript by tinydog.",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
+    "build": "tsc",
+    "prepublish": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -15,6 +18,14 @@
   ],
   "author": "tinydog, llc",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tinydogio/veggiedog"
+  },
+  "bugs": {
+    "url": "https://github.com/tinydogio/veggiedog/issues"
+  },
+  "homepage": "https://github.com/tinydogio/veggiedog",
   "devDependencies": {
     "@types/body-parser": "^1.17.0",
     "@types/express": "^4.16.0",
