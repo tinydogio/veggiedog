@@ -1,0 +1,33 @@
+{
+  "name": "veggiedog",
+  "version": "0.0.1",
+  "description": "A lightweight MVC written in TypeScript by tinydog.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "mvc",
+    "veggiedog",
+    "tinydog",
+    "ts"
+  ],
+  "author": "tinydog, llc",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/body-parser": "^1.17.0",
+    "@types/express": "^4.16.0",
+    "@types/node": "^10.5.4",
+    "nodemon": "^1.18.3",
+    "prettier": "^1.14.0",
+    "ts-node": "^7.0.0",
+    "tslint": "^5.11.0",
+    "typescript": "^2.9.2"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "node-fetch": "^2.2.0"
+  }
+}
