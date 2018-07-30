@@ -1,6 +1,6 @@
 {
   "name": "@tinydogio/veggiedog",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A lightweight MVC written in TypeScript by tinydog.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
